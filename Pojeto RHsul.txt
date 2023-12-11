@@ -1,0 +1,118 @@
+
+INDEX===================
+-Busca de vagas
+         >>Lista de vasgas
+              >>Página da vaga
+-Cadastro
+       > Usuario
+       >Empresa
+       >Profissional
+               >Vagas
+-Login
+    >>recuperação de senha
+-CONTATO==============================    
+
+     >> Envio de email
+=======================================
+Página de perfi
+
+   Nova vaga
+   Meus Dados
+   Vagas Cadastradas 
+
+
+BANCO DE DADOS
+
+-Usuario
+-Vagas
+
+
+Funcionalidades : 
+
+Arquivo e consulta ao Banco de Dados e Organização dos resultados da Busca de vagas - por Cargo e Localidade (Cidade/Estado)
+   -  Lista as vagas disponiveis sem a descrição
+
+Leia mais ---- Para abrir a vaga com todos os detalhes
+
+Titulo da Vaga >>
+Estado-Cidade  >>  
+Contratação >>
+Faixa Salarial >>
+nº Vagas >>
+
+Pagina da Vaga  ----
+
+Titulo da Vaga >>
+Empresa >>
+Estado-Cidade  >>  
+Contratação >>
+Faixa Salarial >>
+nº Vagas >>
+
+
+
+Descrição >>
+Requisitos  >>
+Desejavel >>
+
+-------------------------------------------------------
+
+
+Inicial
+Sobre
+Contato
+
+Login
+  - Recuperação de senha
+  - Cadastro de trabalhador
+  - Cadastro de Empresa
+
+Pagina de perfil  ( TRABALHADOR )
+  - vagas cadidatadas
+  - Meus dados
+  
+
+Pagina de perfil  ( EMPRESA )
+-Cadastro de vagas
+  - vagas cadastradas
+  - Meus dados
+  
+
+
+
+    NOME*
+    SOBRENOME*
+
+    SEXO*
+        Masculino Feminino
+    DATA DE NASCIMENTO*
+
+    Estado*
+
+    Cidade*
+
+    QUAL É SEU E-MAIL?*
+    SENHA*
+
+    Pode repetir o seu email?
+    PODE REPETIR A SENHA?
+
+Rua
+
+numero
+
+complemento
+
+Bairro
+
+Cidade
+
+estado
+
+Pais
+
+
+
+
+
+
